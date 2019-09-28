@@ -50,4 +50,4 @@ Suggests:
 VignetteBuilder: knitr
 RoxygenNote: 6.1.1
 LinkingTo: Rcpp, RcppArmadillo, RcppEigen, RcppProgress, igraph
-NeedsCompilation: yes
+# NeedsCompilation: yes
